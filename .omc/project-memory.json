@@ -1,0 +1,96 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1793916854128,
+  "projectRoot": "/home/nistrator/.no-mistakes/worktrees/e7d5534c08de/01M6PWDNF9JHH35FRM0G5HA1AC",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [
+      "docs"
+    ],
+    "gitBranches": null
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "docs": {
+      "path": "docs",
+      "purpose": "Documentation",
+      "fileCount": 1,
+      "lastAccessed": 1793916854125,
+      "keyFiles": [
+        "METHOD.md"
+      ]
+    },
+    "teardowns": {
+      "path": "teardowns",
+      "purpose": null,
+      "fileCount": 2,
+      "lastAccessed": 1793916854125,
+      "keyFiles": [
+        "2026-11-05-csvbox.md",
+        "template.md"
+      ]
+    },
+    "teardowns/examples": {
+      "path": "teardowns/examples",
+      "purpose": "Example code",
+      "fileCount": 1,
+      "lastAccessed": 1793916854126,
+      "keyFiles": [
+        "2026-11-05-photopea.md"
+      ]
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "docs/METHOD.md",
+      "accessCount": 3,
+      "lastAccessed": 1793917474384,
+      "type": "file"
+    },
+    {
+      "path": "teardowns/template.md",
+      "accessCount": 2,
+      "lastAccessed": 1793917482690,
+      "type": "file"
+    },
+    {
+      "path": "teardowns/2026-11-05-csvbox.md",
+      "accessCount": 1,
+      "lastAccessed": 1793916873411,
+      "type": "file"
+    },
+    {
+      "path": "teardowns/examples/2026-11-05-photopea.md",
+      "accessCount": 1,
+      "lastAccessed": 1793916873988,
+      "type": "file"
+    },
+    {
+      "path": "README.md",
+      "accessCount": 1,
+      "lastAccessed": 1793916878071,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}
