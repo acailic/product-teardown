@@ -1,0 +1,57 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1793917104834,
+  "projectRoot": "/home/nistrator/.no-mistakes/worktrees/e7d5534c08de/01M6PWNAAQ54DR8V2CV2X67VPM",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": null
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "teardowns": {
+      "path": "teardowns",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1793917104831,
+      "keyFiles": [
+        "2026-11-05-buttondown.md"
+      ]
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "README.md",
+      "accessCount": 2,
+      "lastAccessed": 1793917558715,
+      "type": "file"
+    },
+    {
+      "path": "teardowns/2026-11-05-buttondown.md",
+      "accessCount": 2,
+      "lastAccessed": 1793917559349,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}
