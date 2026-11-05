@@ -42,20 +42,44 @@
   "hotPaths": [
     {
       "path": ".tmp-evidence/shot.js",
-      "accessCount": 3,
-      "lastAccessed": 1793917615493,
+      "accessCount": 4,
+      "lastAccessed": 1793917722159,
       "type": "file"
     },
     {
       "path": "teardowns/2026-11-05-smallpdf.md",
-      "accessCount": 2,
-      "lastAccessed": 1793917150450,
+      "accessCount": 3,
+      "lastAccessed": 1793917665103,
       "type": "file"
     },
     {
       "path": "README.md",
+      "accessCount": 3,
+      "lastAccessed": 1793917680404,
+      "type": "file"
+    },
+    {
+      "path": ".tmp-evidence/shot3.js",
       "accessCount": 2,
-      "lastAccessed": 1793917150803,
+      "lastAccessed": 1793917789394,
+      "type": "file"
+    },
+    {
+      "path": ".tmp-evidence/shot2.js",
+      "accessCount": 1,
+      "lastAccessed": 1793917759189,
+      "type": "file"
+    },
+    {
+      "path": ".tmp-evidence/shot4.js",
+      "accessCount": 1,
+      "lastAccessed": 1793917825278,
+      "type": "file"
+    },
+    {
+      "path": ".tmp-evidence/shot5.js",
+      "accessCount": 1,
+      "lastAccessed": 1793917846158,
       "type": "file"
     }
   ],
