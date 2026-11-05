@@ -30,6 +30,16 @@ Every teardown answers, in this order:
    filling it is worth money, and why it would be the top of the offer
    rather than a side feature.
 
+## The essence, explained like you're nine
+
+Every teardown opens with **The essence (ELI9)**: the whole business
+explained in plain, jargon-free language a smart nine-year-old would
+understand. Three to six sentences answering, in kid terms: what does it
+sell, who gives it money, and why do they keep doing that? One analogy is
+allowed; buzzwords are not. If the ELI9 paragraph cannot be written, the
+analysis does not yet understand the business — go back to the sources.
+The rest of the teardown is the proof behind the paragraph.
+
 ## Evidence rules
 
 - **Public sources only.** No scraping behind login walls, no private data,
@@ -62,7 +72,11 @@ Every teardown answers, in this order:
 - Each teardown lives at `teardowns/YYYY-MM-DD-<slug>.md`, where the date is
   the analysis date. One business per file.
 - 400–800 words, English (the repo is public and the audience is global).
-- Start from `teardowns/template.md`.
+- Opens with **The essence (ELI9)** — required, placed immediately after the
+  metadata header (see above).
+- Starts from `teardowns/template.md`.
+- `teardowns/examples/` holds sample teardowns written to validate the
+  method itself; they follow every rule on this page.
 - The README index lists every teardown with a one-line takeaway.
 
 ## License

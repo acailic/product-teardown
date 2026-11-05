@@ -13,11 +13,17 @@ Learning how successful products are actually made — revenue mechanics, custom
 | Date | Business | Type | One-line takeaway |
 |------|----------|------|-------------------|
 | 2026-11-05 | [CSVbox](teardowns/2026-11-05-csvbox.md) | B2B · SaaS | Bootstrapped importer wins the gap between "build it yourself" and sales-priced enterprise tools — audit trail and per-row metering are the next wedge. |
-| 2026-11-05 | [Photopea](teardowns/2026-11-05-photopea.md) | B2C · one-person | A solo founder monetizes massive free traffic at ~90% ads; education and embed-API tiers are the untapped second engine. |
+
+### Method examples
+
+Sample teardowns written to validate the method itself, in
+[`teardowns/examples/`](teardowns/examples/):
+
+- [Photopea](teardowns/examples/2026-11-05-photopea.md) — B2C · one-person: a solo founder monetizes massive free traffic at ~90% ads; education and embed-API tiers are the untapped second engine.
 
 ## Method
 
-Every teardown answers: (1) what the product is and for whom, (2) how it earns — model, prices, revenue units, visible evidence, (3) who the customers are — segments with public evidence, (4) why they use it — job-to-be-done and the realistic alternatives, (5) what we would build better — 1–3 concrete, argued changes. Public sources only; every non-trivial claim carries a link. Full method: [`docs/METHOD.md`](docs/METHOD.md).
+Every teardown opens with **the essence (ELI9)** — the whole business explained in plain language, like you're nine: what it sells, who gives it money, why they keep doing that. Then it answers, with public evidence: (1) what the product is and for whom, (2) how it earns — model, prices, revenue units, visible evidence, (3) who the customers are — segments with public evidence, (4) why they use it — job-to-be-done and the realistic alternatives, (5) what we would build better — 1–3 concrete, argued changes. Public sources only; every non-trivial claim carries a link. Full method: [`docs/METHOD.md`](docs/METHOD.md).
 
 ## License
 

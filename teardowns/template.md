@@ -6,6 +6,11 @@
 - **Prices as seen:** <price points snapshot, with billing basis>
 - **Revenue evidence:** <verified / estimated — with links>
 
+## 0. The essence (ELI9)
+
+<3–6 sentences, no jargon: what it sells, who gives it money, and why they
+keep doing that — as if explaining to a smart nine-year-old.>
+
 ## 1. What it is, and for whom
 
 <One paragraph: what the product does, in its own category terms, and who
