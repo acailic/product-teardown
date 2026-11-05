@@ -1,0 +1,63 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1793916966808,
+  "projectRoot": "/home/nistrator/.no-mistakes/worktrees/e7d5534c08de/01M6PWH3HETDM5SATEVMNT3XQ4",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": null
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "teardowns": {
+      "path": "teardowns",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1793916966804,
+      "keyFiles": [
+        "2026-11-05-smallpdf.md"
+      ]
+    }
+  },
+  "hotPaths": [
+    {
+      "path": ".tmp-evidence/shot.js",
+      "accessCount": 3,
+      "lastAccessed": 1793917615493,
+      "type": "file"
+    },
+    {
+      "path": "teardowns/2026-11-05-smallpdf.md",
+      "accessCount": 2,
+      "lastAccessed": 1793917150450,
+      "type": "file"
+    },
+    {
+      "path": "README.md",
+      "accessCount": 2,
+      "lastAccessed": 1793917150803,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}
