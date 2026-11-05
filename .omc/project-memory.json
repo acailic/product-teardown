@@ -62,6 +62,12 @@
   },
   "hotPaths": [
     {
+      "path": "teardowns/2026-11-05-csvbox.md",
+      "accessCount": 26,
+      "lastAccessed": 1793918611974,
+      "type": "file"
+    },
+    {
       "path": "docs/METHOD.md",
       "accessCount": 3,
       "lastAccessed": 1793917474384,
@@ -74,12 +80,6 @@
       "type": "file"
     },
     {
-      "path": "teardowns/2026-11-05-csvbox.md",
-      "accessCount": 1,
-      "lastAccessed": 1793916873411,
-      "type": "file"
-    },
-    {
       "path": "teardowns/examples/2026-11-05-photopea.md",
       "accessCount": 1,
       "lastAccessed": 1793916873988,
@@ -89,6 +89,12 @@
       "path": "README.md",
       "accessCount": 1,
       "lastAccessed": 1793916878071,
+      "type": "file"
+    },
+    {
+      "path": "LICENSE",
+      "accessCount": 1,
+      "lastAccessed": 1793918469118,
       "type": "file"
     }
   ],
