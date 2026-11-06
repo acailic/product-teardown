@@ -71,7 +71,7 @@ The rest of the teardown is the proof behind the paragraph.
 
 - Each teardown lives at `teardowns/YYYY-MM-DD-<slug>.md`, where the date is
   the analysis date. One business per file.
-- 400–800 words, English (the repo is public and the audience is global).
+- 400–1000 words, English (the repo is public and the audience is global). Essence-depth analyses may use the full band; future teardowns target ≤1000.
 - Opens with **The essence (ELI9)** — required, placed immediately after the
   metadata header defined in `teardowns/template.md`.
 - Starts from `teardowns/template.md`.
