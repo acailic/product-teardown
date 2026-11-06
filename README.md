@@ -12,7 +12,16 @@ Learning how successful products are actually made — revenue mechanics, custom
 
 | Date | Business | Type | One-line takeaway |
 |------|----------|------|-------------------|
+| 2026-11-05 | [Beardbrand](teardowns/2026-11-05-beardbrand.md) | B2C · DTC e-commerce | YouTube trust-building turned a $30 idea into a seven-figure grooming brand selling identity ("Urban Beardsman") at 3–5× supermarket prices — organic content was the whole funnel. |
+| 2026-11-05 | [Buttondown](teardowns/2026-11-05-buttondown.md) | B2B/B2C · SaaS | A privacy-first newsletter tool that prices by list size and stays deliberately boring — bootstrapped and profitable since 2017, with revenue never disclosed but costs leaked on a public stack page. |
+| 2026-11-05 | [Carrd](teardowns/2026-11-05-carrd.md) | B2C · one-person web app | $19/year one-page sites built a $1M+ ARR solo business — zero-signup onboarding and millions of free posters are the growth engine, not ads. |
 | 2026-11-05 | [CSVbox](teardowns/2026-11-05-csvbox.md) | B2B · SaaS | Bootstrapped importer wins the gap between "build it yourself" and sales-priced enterprise tools — audit trail and per-row metering are the next wedge. |
+| 2026-11-05 | [Fathom](teardowns/2026-11-05-fathom.md) | B2B · SaaS | An AI meeting notetaker whose famously free tier is the distribution engine — 400k+ MAU and 8,500+ HubSpot companies later, Superhuman bought it to own agentic workflows. |
+| 2026-11-05 | [Nomad List](teardowns/2026-11-05-nomadlist.md) | B2C · community | A public Google Sheet became a solo-run city-ranking club: one-time $19.99 memberships, data licensing and sponsorships — profitable from day one, still one man and one server. |
+| 2026-11-05 | [Plausible](teardowns/2026-11-05-plausible.md) | B2B · SaaS | Privacy-first analytics turned GA4 backlash into 22,000 paying subscribers — open source and EU hosting are the trust moat; funnels and journeys are the cloud-only upsell. |
+| 2026-11-05 | [Remove.bg](teardowns/2026-11-05-removebg.md) | B2B/B2C · API | Credit-metered background removal at 30M+ monthly users — bootstrapped in Vienna, acquired by Canva, then scheduled for shutdown: the cautionary half of the acquisition story. |
+| 2026-11-05 | [Smallpdf](teardowns/2026-11-05-smallpdf.md) | B2C/B2B · SaaS | One tiny daily problem (PDF too big to email) × millions of people = 40M monthly users — freemium with daily limits converts the desperate, seats convert teams. |
+| 2026-11-06 | [Healthchecks.io](teardowns/2026-11-06-healthchecks.md) | B2B · SaaS | A one-man, open-source cron watchdog publishing live revenue ($29,300 MRR, 1,420 accounts) — the free 20-check tier and radical transparency beat "overpriced" incumbents like Cronitor. |
 
 ### Method examples
 
