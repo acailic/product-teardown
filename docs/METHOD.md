@@ -52,7 +52,8 @@ The rest of the teardown is the proof behind the paragraph.
   revenue figure is a primary source; a reviewer's complaint is a pain
   signal.
 - **Prices are snapshots.** Pricing pages change; each teardown records the
-  prices as seen on its analysis date, stated in the header.
+  prices as seen on its analysis date, stated in the header or next to the
+  quoted price.
 - **Respect licensing.** Teardown content is CC-BY-4.0; quotes stay short
   and attributed.
 
