@@ -22,6 +22,7 @@ Learning how successful products are actually made — revenue mechanics, custom
 | 2026-11-05 | [Plausible](teardowns/2026-11-05-plausible.md) | B2B · SaaS | Privacy-first analytics turned GA4 backlash into 22,000 paying subscribers — open source and EU hosting are the trust moat; funnels and journeys are the cloud-only upsell. |
 | 2026-11-05 | [Remove.bg](teardowns/2026-11-05-removebg.md) | B2B/B2C · API | Credit-metered background removal at 30M+ monthly users — bootstrapped in Vienna, acquired by Canva, then scheduled for shutdown: the cautionary half of the acquisition story. |
 | 2026-11-05 | [Smallpdf](teardowns/2026-11-05-smallpdf.md) | B2C/B2B · SaaS | One tiny daily problem (PDF too big to email) × millions of people = 40M monthly users — freemium with daily limits converts the desperate, seats convert teams. |
+| 2026-11-05 | [Tally](teardowns/2026-11-05-tally.md) | B2B · SaaS | Unlimited-free-forms freemium wins makers; the badge and AI-recommendation channels do the acquisition, trust and consent features are the next wedge. |
 | 2026-11-06 | [Healthchecks.io](teardowns/2026-11-06-healthchecks.md) | B2B · SaaS | A one-man, open-source cron watchdog publishing live revenue ($29,300 MRR, 1,420 accounts) — the free 20-check tier and radical transparency beat "overpriced" incumbents like Cronitor. |
 
 ### Method examples
