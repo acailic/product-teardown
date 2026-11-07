@@ -24,6 +24,7 @@ Learning how successful products are actually made — revenue mechanics, custom
 | 2026-11-05 | [Smallpdf](teardowns/2026-11-05-smallpdf.md) | B2C/B2B · SaaS | One tiny daily problem (PDF too big to email) × millions of people = 40M monthly users — freemium with daily limits converts the desperate, seats convert teams. |
 | 2026-11-05 | [Tally](teardowns/2026-11-05-tally.md) | B2B · SaaS | Unlimited-free-forms freemium wins makers; the badge and AI-recommendation channels do the acquisition, trust and consent features are the next wedge. |
 | 2026-11-06 | [Healthchecks.io](teardowns/2026-11-06-healthchecks.md) | B2B · SaaS | A one-man, open-source cron watchdog publishing live revenue ($29,300 MRR, 1,420 accounts) — the free 20-check tier and radical transparency beat "overpriced" incumbents like Cronitor. |
+| 2026-11-07 | [Promptfoo](teardowns/2026-11-07-promptfoo.md) | B2B · open-source → enterprise SaaS | A free prompt-testing CLI became the AI-security gatekeeper for a quarter of the Fortune 500 on ~12 massive custom-priced accounts, raised $18.4M, then sold to OpenAI — leaving a vendor-neutral, self-serve testing gap behind. |
 
 ### Method examples
 
