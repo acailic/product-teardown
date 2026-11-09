@@ -26,6 +26,7 @@ Learning how successful products are actually made — revenue mechanics, custom
 | 2026-11-06 | [Healthchecks.io](teardowns/2026-11-06-healthchecks.md) | B2B · SaaS | A one-man, open-source cron watchdog publishing live revenue ($29,300 MRR, 1,420 accounts) — the free 20-check tier and radical transparency beat "overpriced" incumbents like Cronitor. |
 | 2026-11-07 | [Promptfoo](teardowns/2026-11-07-promptfoo.md) | B2B · open-source → enterprise SaaS | A free prompt-testing CLI became the AI-security gatekeeper for a quarter of the Fortune 500 on ~12 massive custom-priced accounts, raised $18.4M, then agreed to sell to OpenAI — leaving a vendor-neutral, self-serve testing gap behind. |
 | 2026-11-08 | [Checkly](teardowns/2026-11-08-checkly.md) | B2B · developer SaaS | An indie monitoring project turned $32.25M-VC-backed scale-up that meters synthetic checks by the run — monitoring-as-code expands the meter 10×, while workflow-config regression (n8n/Jira/Salesforce) is the flank it deliberately leaves open. |
+| 2026-11-09 | [iubenda](teardowns/2026-11-09-iubenda.md) | B2B/B2C · compliance SaaS | A 2011 one-founder privacy-policy generator became the compliance utility rented by 150,000+ sites at €5–80/site/month plus pageview meters — team.blue bought it and it bought three rivals; the unsold SKU is proof of compliance, not paperwork. |
 
 ### Method examples
 
