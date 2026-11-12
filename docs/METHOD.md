@@ -52,8 +52,9 @@ The rest of the teardown is the proof behind the paragraph.
   revenue figure is a primary source; a reviewer's complaint is a pain
   signal.
 - **Prices are snapshots.** Pricing pages change; each teardown records the
-  prices as seen on its analysis date, stated in the header or next to the
-  quoted price.
+  prices as seen on its analysis date. Every teardown carries a mandatory
+  header field **"Prices as seen (YYYY-MM-DD)"** with the snapshot date of
+  the prices it cites.
 - **Respect licensing.** Teardown content is CC-BY-4.0; quotes stay short
   and attributed.
 
@@ -62,17 +63,24 @@ The rest of the teardown is the proof behind the paragraph.
 - Small enough that one person can plausibly understand the whole business:
   indie projects, bootstrapped SaaS, micro-products, one-person companies —
   occasionally larger ones that started small, when the early story is the
-  lesson.
+  lesson. For such larger subjects, §1 must name the early-story lesson that
+  earns them the slot, so growing past the small-business core stays a
+  conscious choice rather than a slide.
 - Prefer businesses with verifiable public evidence: published pricing,
   active docs/changelogs, founder interviews, review presence.
 - Mix B2B and B2C, and mix revenue models (subscriptions, usage-based, ads,
-  licensing) so the comparison set teaches something new each day.
+  licensing) so the comparison set teaches something new each day. Every
+  calendar week includes at least one non-subscription model (usage, one-time,
+  ads, or licensing) and at least one B2C subject.
 
 ## Format
 
 - Each teardown lives at `teardowns/YYYY-MM-DD-<slug>.md`, where the date is
   the analysis date. One business per file.
-- 400–1000 words, English (the repo is public and the audience is global). Essence-depth analyses may use the full band; future teardowns target ≤1000.
+- 400–1000 words of the body — the analysis text from the essence through
+  §5 — excluding the title, the metadata header, and the Sources section.
+  English (the repo is public and the audience is global). Essence-depth
+  analyses may use the full band; future teardowns target ≤1000.
 - Opens with **The essence (ELI9)** — required, placed after the up-front
   date/header information (`teardowns/template.md` allows it in the title,
   a dateline, or a metadata bullet block).
