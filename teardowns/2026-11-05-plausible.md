@@ -2,6 +2,8 @@
 
 *Analyzed 2026-11-05. All facts from public sources, linked inline. License of this document: CC-BY-4.0.*
 
+**Prices as seen (2026-11-05):** Starter $9/mo (10k pageviews, 1 site) · Growth $14/mo (3 sites, 3 members) · Business $19/mo (10 sites, 10 members) — rising to $169/$254/$339/mo at the 10M+ pageview tier · Enterprise custom · yearly billing two months free ([pricing section](https://plausible.io/#pricing))
+
 ## The essence (for a 9-year-old)
 
 Plausible is a counting machine for websites. When people visit your site, it counts how many came and which pages they saw — but it does not try to find out who they are or follow them around the internet, the way Google's free tool does. Because it behaves this way, website owners don't need to show the annoying "accept cookies?" pop-up. Owners pay a small monthly fee for this honest counting, and today about 22,000 of them do — enough money to support a team of just 11 people who built the whole thing themselves without rich investors. ([plausible.io](https://plausible.io/))

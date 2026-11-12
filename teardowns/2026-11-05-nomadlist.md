@@ -2,6 +2,8 @@
 
 *Date: 2026-11-05 · All sources are free and public; accessed 2026-11-05.*
 
+**Prices as seen (2026-11-05):** Lifetime Membership $19.99 one-time (a $1 price-test variant also visible) · free tier with limited access · paid API/data plans and sponsorships exist, prices not published ([join page](https://nomads.com/?join=nomads))
+
 ## The essence (for a 9-year-old)
 
 Some people can work from their laptop in any city in the world. Nomad List is a website that gives every city a score for how good it is for them — how much it costs, how fast the internet is, how warm and safe it is. It is also a big club of about 49,000 remote workers who find friends, meetups and even girlfriends or boyfriends in whatever city they land in. Joining the club is free, but the full pass costs $19.99 once, and the site also sells its city data to programmers and shows ads. One man, Pieter Levels, built it by himself and it made money from its very first day.

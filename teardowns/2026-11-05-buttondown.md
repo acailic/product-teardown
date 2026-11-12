@@ -1,5 +1,7 @@
 # Buttondown — product teardown (2026-11-05)
 
+**Prices as seen (2026-11-05):** Free (≤100 subscribers) · Basic $9/mo (≤1,000) · Standard $29/mo (≤5,000) · Professional $79/mo (≤10,000) · Advanced $139/mo (≤20,000) · à-la-carte add-ons $9–$79/mo ([pricing](https://buttondown.com/pricing))
+
 ## The essence (for a 9-year-old)
 
 Buttondown is like a very good post office for people who write letters to lots of friends at once. You write one letter, and it makes sure a clean copy arrives in every reader's mailbox — without junk, ads, or spying. It is free until you have one hundred readers, and then you pay a little bit more each month as your list grows. The people who built it answer your questions themselves instead of sending you to a robot. Writers stay because it is simple, cheap, and leaves them and their readers alone.
