@@ -71,7 +71,8 @@ The rest of the teardown is the proof behind the paragraph.
 - Mix B2B and B2C, and mix revenue models (subscriptions, usage-based, ads,
   licensing) so the comparison set teaches something new each day. Every
   calendar week includes at least one non-subscription model (usage, one-time,
-  ads, or licensing) and at least one B2C subject.
+  ads, or licensing) and at least one B2C subject. A week runs Monday–Sunday
+  (ISO 8601), counted in the local timezone of the analysis date.
 
 ## Format
 
