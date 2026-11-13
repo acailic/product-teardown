@@ -29,6 +29,7 @@ Learning how successful products are actually made — revenue mechanics, custom
 | 2026-11-09 | [iubenda](teardowns/2026-11-09-iubenda.md) | B2B/B2C · compliance SaaS | A 2011 one-founder privacy-policy generator became the compliance utility rented by 150,000+ sites at €5–80/site/month plus pageview meters — team.blue bought it and it bought three rivals; the unsold SKU is proof of compliance, not paperwork. |
 | 2026-11-10 | [EvidentTrail](teardowns/2026-11-10-evidenttrail.md) | B2B · early-stage compliance SaaS | A ~10-month-old Dutch "Early Access" bet that audit evidence is a thin read-only layer on GitHub — pack-metered plans and Stripe are wired, but no prices are published and no customers are visible; the wedge against demo-gated Vanta only pays if it sells self-serve. |
 | 2026-11-12 | [Vanta](teardowns/2026-11-12-vanta.md) | B2B · trust-management SaaS | The demo-gated incumbent proved compliance is rent: $300M+ ARR from 16,000 companies whose enterprise deals need its always-fresh binder — but the proof it sells is private and its price unpublished, which is exactly the gap thin evidence layers attack. |
+| 2026-11-13 | [Termly](teardowns/2026-11-13-termly.md) | B2B/B2C · compliance SaaS | Free policy generators hook 2M+ small sites (vendor claim), then $10–20 per-website/month licenses meter banner views, policy count and scan frequency — now a group.one brand cross-sold alongside WP Rocket and one.com; consent that protects Google Ads conversions sits buried as a Pro+ checkbox. |
 
 ### Method examples
 
