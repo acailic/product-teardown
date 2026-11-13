@@ -2,6 +2,8 @@
 
 **Date:** 2026-11-05 · **Type:** direct-to-consumer men's grooming (Shopify) · **Founded:** 2012 · **HQ:** Austin, TX · **Ownership:** bootstrapped, private — current revenue not published
 
+**Prices as seen (2026-11-05):** Beard Oil $29–$32 for 1.7 oz (50 ml) · five-fragrance oil set from $122 · free US shipping over $75 · Alliance Membership $90 one-time ([beard oil collection](https://www.beardbrand.com/collections/beard-oil), fetched 2026-11-05)
+
 ## The essence (for a 9-year-old)
 
 Beardbrand sells soap, oil, and cologne made just for men with beards. It became famous because its founder made hundreds of YouTube videos teaching men how to take care of their beards. People who watched the videos learned to trust the company, and then they bought its products — even though they cost more than the cheap bottles in a supermarket. The beard itself is the real product: Beardbrand sells men a way to feel proud and stylish wearing one.
