@@ -30,6 +30,7 @@ Learning how successful products are actually made — revenue mechanics, custom
 | 2026-11-10 | [EvidentTrail](teardowns/2026-11-10-evidenttrail.md) | B2B · early-stage compliance SaaS | A ~10-month-old Dutch "Early Access" bet that audit evidence is a thin read-only layer on GitHub — pack-metered plans and Stripe are wired, but no prices are published and no customers are visible; the wedge against demo-gated Vanta only pays if it sells self-serve. |
 | 2026-11-12 | [Vanta](teardowns/2026-11-12-vanta.md) | B2B · trust-management SaaS | The demo-gated incumbent proved compliance is rent: $300M+ ARR from 16,000 companies whose enterprise deals need its always-fresh binder — but the proof it sells is private and its price unpublished, which is exactly the gap thin evidence layers attack. |
 | 2026-11-13 | [Termly](teardowns/2026-11-13-termly.md) | B2B/B2C · compliance SaaS | Free policy generators hook 2M+ small sites (vendor claim), then $10–20 per-website/month licenses meter banner views, policy count and scan frequency — now a group.one brand cross-sold alongside WP Rocket and one.com; consent that protects Google Ads conversions sits buried as a Pro+ checkbox. |
+| 2026-11-14 | [CookieYes](teardowns/2026-11-14-cookieyes.md) | B2B/B2C · compliance SaaS + WP plugin | A rebranded million-install WordPress plugin funnels free banners into a $10–55/domain/month SaaS metered by pageviews (+$0.30/1K overage); Consent Mode v2 free everywhere wins the funnel, while proof-of-compliance and agency tooling stay unsold. |
 
 ### Method examples
 
